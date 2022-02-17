@@ -19,7 +19,7 @@ npm install
 
 ```
 
-## To get all Habitable Planet GET USER REGISTRAION
+## GET USER REGISTRAION form
 
 ```
 http://localhost:3000
